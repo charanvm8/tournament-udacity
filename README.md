@@ -1,13 +1,13 @@
-Tournament Results
+# Tournament Results
 
 The game tournament will use the Swiss system for pairing up players in each round: players are not eliminated, and each player will be paired with another player with the same number of wins, or as close as possible.
 
 
-Getting Started:
+## Getting Started:
 
 You can download the zip file and extract it to get access to the files.
 
-Prerequisities:
+## Prerequisities:
 
 VM Virtual Machine
  (or)
@@ -20,7 +20,7 @@ Install the python dependencies, pip install -r requirements.txt
 Create the schema: psql - f tournament.sql
 Run the tests: python tournament_test.py
 
-Installation Instructions:
+## Installation Instructions:
 
 Installation instructions for the VM & database
 
